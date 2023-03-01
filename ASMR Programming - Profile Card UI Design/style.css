@@ -108,7 +108,6 @@ body::before {
   border-radius: 40%;
   align-items: center;
   justify-content: center;
-  color: red;
   position: relative;
   flex-shrink: 0;
   transition: all 0.2s;
